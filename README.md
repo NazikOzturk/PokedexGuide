@@ -24,4 +24,4 @@ PokeAPI: Pokémon verileri için API kullanımı.
 
 # Ekran Görüntüsü
 
-![](ekran görüntüsü.gif)
+![](ekran.gif)
